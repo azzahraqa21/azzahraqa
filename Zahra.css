@@ -1,0 +1,44 @@
+body {
+    min-height: 3000px;
+  }
+  .jumbotron {
+    padding-top: 6rem;
+    background-color: #FFC0CB;
+  }
+  #hobbies {
+    background-color: #FFC0CB;
+  }
+  #contact {
+    background-color: #FFC0CB;
+  }
+  section {
+    padding-top: 5rem;
+  }
+
+.navbg {
+    background-color: #d59696;
+}
+.arabab {
+    font-family: 'AraHamah1964B-Bold';
+    font-size: 80px;
+    color: aliceblue;
+}
+.azahra {
+    font-family: 'AraHamah1964B-Bold';
+    color: aliceblue;
+}
+.azahranav {
+    font-family: 'AraHamah1964B-Bold';
+    font-size: 20px;
+}
+.pth {
+    color: aliceblue;
+}
+@font-face {
+	font-family: 'AraHamah1964B-Bold';
+	src: url('AraHamah1964B-Bold.eot?') format('eot'), 
+	     url('AraHamah1964B-Bold.otf')  format('opentype'),
+	     url('AraHamah1964B-Bold.woff') format('woff'), 
+	     url('AraHamah1964B-Bold.ttf')  format('truetype'),
+	     url('AraHamah1964B-Bold.svg#AraHamah1964B-Bold') format('svg');
+}
